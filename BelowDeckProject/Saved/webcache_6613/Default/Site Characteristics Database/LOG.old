@@ -1,3 +1,5 @@
-2026/05/15-23:51:18.394 4f9c Reusing MANIFEST C:\Users\eeili\Documents\Unreal Projects\BelowDeck\BelowDeck\BelowDeckProject\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/05/15-23:51:18.394 4f9c Recovering log #3
-2026/05/15-23:51:18.394 4f9c Reusing old log C:\Users\eeili\Documents\Unreal Projects\BelowDeck\BelowDeck\BelowDeckProject\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/05/16-00:43:41.238 1840 Log #3: 4 ops saved to Table #4 OK
+2026/05/16-00:43:41.242 1840 Archiving C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/05/16-00:43:41.242 1840 Table #4: 4 entries OK
+2026/05/16-00:43:41.244 1840 Archiving C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/05/16-00:43:41.252 1840 **** Repaired leveldb C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 236 bytes. Some data may have been lost. ****
