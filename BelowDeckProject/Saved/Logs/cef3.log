@@ -1,35 +1,35 @@
-[31772:32672:0516/185032.258:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[31772:29192:0516/185032.289:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[31772:32672:0516/185032.308:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[31772:19160:0516/185034.466:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31772:19160:0516/185034.472:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31772:19160:0516/185034.476:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31772:19160:0516/185034.478:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31772:13132:0516/185035.025:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31772:13132:0516/185035.028:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5560:12472:0516/185036.253:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D584B7851ADE91D65E8E1CCC5C8EF948 will be ignored
-[31772:32672:0516/185041.250:ERROR:device_event_log_impl.cc(196)] [18:50:40.924] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[15084:28692:0516/185308.116:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-BF7FA715468E1AF481041F51422CC6CA will be ignored
-[18764:27524:0516/185348.609:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
-
-[18764:5828:0516/185348.756:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
-
-[18764:18684:0516/185349.013:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[18764:23296:0516/185349.169:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-
-[18764:6196:0516/185349.254:ERROR:gl_utils.cc(415)] [.WebGL-00000DA803215500] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[18764:6196:0516/185349.254:ERROR:gl_utils.cc(415)] [.WebGL-00000DA803215500] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[18764:6196:0516/185349.254:ERROR:gl_utils.cc(415)] [.WebGL-00000DA803215500] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[18764:6196:0516/185349.269:ERROR:gl_utils.cc(415)] [.WebGL-00000DA803215500] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[18764:6196:0516/185349.269:ERROR:gl_utils.cc(415)] [.WebGL-00000DA803215500] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[18764:6196:0516/185349.269:ERROR:gl_utils.cc(415)] [.WebGL-00000DA803215500] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[18764:6196:0516/185354.815:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[31772:32672:0516/203109.999:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[30232:31840:0516/203230.655:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[30232:12848:0516/203230.684:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[30232:31840:0516/203230.702:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30232:33684:0516/203231.828:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30232:33684:0516/203231.833:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30232:33684:0516/203231.837:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30232:33684:0516/203231.840:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30232:33684:0516/203233.259:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30232:33684:0516/203233.261:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27724:31680:0516/203233.622:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6DC635282277CE51673A16E5DC89CD5A will be ignored
+[13140:2136:0516/203234.754:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-9C39EA64A0A9621F76F2D7FDBC6547ED will be ignored
+[30232:31840:0516/203236.698:ERROR:device_event_log_impl.cc(196)] [20:32:36.690] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[25212:14412:0516/204232.641:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25212:12212:0516/204232.674:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25212:14412:0516/204232.692:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12476:4580:0516/204237.285:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-58E546C96CAB188419BAD91B12C15D49 will be ignored
+[25212:1584:0516/204238.956:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[25212:14412:0516/204239.621:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[25212:14412:0516/204239.621:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[25212:14412:0516/204239.621:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[25212:14412:0516/204239.621:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[25212:1584:0516/204239.626:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[25212:14412:0516/204241.288:ERROR:device_event_log_impl.cc(196)] [20:42:40.962] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[27236:2648:0516/204243.284:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27236:2648:0516/204243.786:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27236:31140:0516/204243.806:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27236:31140:0516/204243.806:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27236:31140:0516/204243.807:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[34340:30408:0516/204454.638:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34340:30408:0516/204454.638:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[25212:14412:0516/204711.973:ERROR:device_event_log_impl.cc(196)] [20:47:11.924] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[30232:31840:0516/204712.157:ERROR:device_event_log_impl.cc(196)] [20:47:11.923] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[25212:14412:0516/210018.385:ERROR:device_event_log_impl.cc(196)] [21:00:18.294] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[25212:14412:0516/210108.523:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[30232:31840:0516/211608.593:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
